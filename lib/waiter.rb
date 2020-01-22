@@ -1,5 +1,5 @@
 class Waiter
-  attr_accessor :name, :yrs_experience 
+  attr_accessor :waiter, :customer, :name, :yrs_experience 
   
   @@all = [] 
   
